@@ -10,3 +10,7 @@ npm run build
 ## Larger Screen
 
 ![Web-screen-view](https://github.com/YemiOG/manage-landing-page/blob/main/img/screenshots/Web%20capture_3-8-2022_17439_127.0.0.1.jpeg?raw=true)
+
+## Mobile Screens
+
+![Mobile-screen-view](https://github.com/YemiOG/manage-landing-page/blob/main/img/screenshots/Web%20capture_3-8-2022_17468_127.0.0.1.jpeg?raw=true)
